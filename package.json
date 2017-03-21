@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.9.5",
-    "custom-react-scripts": "0.0.23"
+    "custom-react-scripts": "0.0.23",
+    "react": "^15.4.2",
+    "react-scripts": "0.9.5"
   },
   "dependencies": {
     "react": "^15.4.2",
